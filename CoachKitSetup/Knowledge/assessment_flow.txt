@@ -1,0 +1,38 @@
+ProFit Assessment Flow: Personalizing Your Health Journey
+
+ProFit includes an assessment flow designed to gather important information about users’ health, mood, and goals to provide a tailored fitness experience. This assessment is available to all users, with a few additional steps for female users.
+
+1. Assessment Overview
+Females: The assessment consists of 10 screens, including an extra screen dedicated to menstrual cycle tracking.
+Males: The assessment consists of 9 screens.
+Users can skip the entire assessment or choose to complete specific parts. This flexibility allows users to control how much information they want to provide at any given time.
+2. Assessment Screens
+The assessment gathers a variety of personal information to help customize the user experience. Here’s what is covered:
+
+User Goal: Users are asked about their goals for using the app, such as reducing stress, becoming more active, eating healthier, or managing time better.
+
+Mood: The user’s current mood is captured, with options ranging from “Over the Moon” to “Sad.”
+
+Body Metrics: Users input their weight and height, and their BMI (Body Mass Index) is automatically calculated.
+
+Menstrual Cycle (Females Only): Female users are asked to provide details about their menstrual cycle, such as the start and end dates of their last period and their average cycle length.
+
+Professional Help: Users are asked whether they have previously sought professional help (e.g., psychologists, physicians).
+
+Physical Distress: The user is asked if they are experiencing any physical pain or discomfort.
+
+Sleep Quality: Users rate the quality of their sleep based on different time ranges (e.g., 7-9 hours for excellent).
+
+Medication Use: Users can specify whether they are taking prescribed medications, over-the-counter medications, or none at all.
+
+Medication Details: For users who are taking medications, they can select from a list of over 100 medicines, with a built-in search function to find specific drugs.
+
+Mental Health Symptoms: Users are asked about other mental health symptoms they may be experiencing, such as anxiety, depression, mood swings, fatigue, or persistent sadness.
+
+Stress Level: Users are asked to rate their stress level on a scale of 1 to 5, with 1 indicating no stress at all and 5 indicating high levels of stress.
+
+3. Logging In
+Once the user finishes or skips the assessment, they are automatically logged into the system. From there, they can begin using ProFit’s features based on the information provided.
+
+4. Tailored Experience
+Based on the information provided during the assessment, ProFit will tailor suggestions, such as workout plans, nutrition recommendations, and wellness resources, to the user’s specific needs and goals.

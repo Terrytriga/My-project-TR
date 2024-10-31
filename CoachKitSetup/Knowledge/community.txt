@@ -1,0 +1,21 @@
+ProFit App - Community Page Overview:
+
+The community section of the ProFit app provides users with the ability to interact through threads, access resources, and follow other users, creating an engaging and supportive environment for fitness and wellness enthusiasts.
+
+1. Threads:
+Filtering Threads: Users can filter threads based on tags such as "Food," "Workout," "Yoga," and "Meditation." If no tags are selected, the app displays all threads, and multiple tags can be used for filtering simultaneously.
+Search Functionality: A search bar is available to help users quickly find threads by filtering based on the thread title.
+Creating Threads: Users can create new threads by selecting a tag, adding a title (up to 50 characters), and writing a subject (up to 200 characters). Each thread can include an image and description.
+Viewing and Interacting with Threads:
+Once a thread is created, it displays the title, description, the user who posted it, and the post date.
+Other users can view the thread and reply to it with comments.
+Posts can be liked using a heart icon, and a reply option allows users to engage in discussions.
+2. Resources:
+The resources section is a collection of guides and videos designed to provide valuable fitness and wellness information from professionals. It is divided into sections:
+
+Guides: Articles and tips created by professionals like dietitians, physiotherapists, and psychologists. Users can browse through various guides based on their specific health goals or areas of interest.
+Videos: Educational and motivational videos curated by health professionals for fitness, nutrition, and mental health.
+3. Follow:
+User Profiles: Users can visit profiles of other users in the community. Each profile shows the user’s followers and those they are following.
+Follow Feature: The follow option allows users to stay connected and engaged with other members of the ProFit community by following their posts, threads, and activities.
+This dynamic community hub encourages users to share experiences, seek advice, and connect with like-minded individuals on their health and fitness journey.

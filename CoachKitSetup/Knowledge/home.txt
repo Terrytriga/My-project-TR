@@ -1,0 +1,63 @@
+ProFit App - Detailed Home Page Overview:
+
+Upon logging in, users are welcomed to the Home screen of the ProFit app. The Home screen serves as the main dashboard, providing an overview of the user's daily activities, goals, To-Dos, and tracked metrics. The layout is designed to be intuitive and user-friendly, ensuring users can quickly access important features like tracking, goal setting, and progress updates.
+
+1. To-Do List:
+The To-Do List is prominently displayed at the top of the Home page, showing a list of tasks for the selected day.
+Each To-Do item is presented with a checkbox, allowing users to mark tasks as completed with a simple tap. Once completed, a visual checkmark appears, confirming the task's status.
+Users can add new To-Dos via the input field located at the bottom of the To-Do List section. This field supports text entry and provides a keyboard interface for convenience.
+To delete a To-Do, users simply tap the red trash icon next to each item. The system ensures that completed To-Dos remain visible until manually deleted, allowing users to keep track of finished tasks.
+The date selector at the top of the To-Do list uses a calendar picker, enabling users to switch between dates and manage their tasks for different days.
+
+2. Tracking Overview:
+The "+ Track" button is a core feature of the Home page, allowing users to log their activity across multiple areas. When users tap this button, they are presented with options to track:
+- Sleep
+- Water Intake
+- Steps
+- Workouts
+- Meals
+- Menstrual Cycle (for female users)
+Each type of tracking comes with its own dedicated input screen:
+- Sleep Tracking: Users can log the number of hours slept and the specific date for the entry.
+- Water Tracking: Users can track how many bottles of water (500ml) they consumed on a given day.
+- Steps Tracking: Users can input the total number of steps completed each day.
+- Workouts and Meals: The app provides a preconfigured list of workouts and meals. Users select the relevant items and add them to their tracking history.
+- Cycle Tracking: Female users can log details related to their menstrual cycle, such as the start and end date of their period, which helps in predicting future cycles based on either tracking or assessment data.
+The calendar picker is used consistently throughout tracking screens to ensure users can log their activities for specific dates, creating a unified and consistent tracking experience.
+
+3. Graphical Progress Display:
+- Line Graphs and Heatmaps are used to visually represent progress in key areas:
+-- Steps, Water Intake, and Sleep are displayed via line graphs, showing trends over time. The graph can be toggled between Week and Month views, providing a granular or broader perspective of the user’s progress.
+-- The Cycle Tracking section displays predictions for the user's next period, fertility window, and cycle end based on either user tracking or the assessment data. If insufficient data is available, the app will inform the user that predictions cannot be made.
+- Heatmaps are used for Workouts, Meals, and Cycles:
+-- Workouts and Meals: These heatmaps indicate the frequency of activities or meals across different days, where the intensity of the color darkens as the user logs more activities.
+-- Cycle Tracking: The heatmap provides visual cues, with purple squares indicating period days and light purple squares for fertility windows.
+This graphical interface gives users a quick visual understanding of their activity trends and encourages them to stay on track.
+
+4. Goals Section:
+- Users have the ability to set dynamic goals across five key areas:
+-- Calories
+-- Steps
+-- Water Intake
+-- Workouts
+-- Sleep
+- When setting a goal, users specify:
+-- A start and end date for the goal.
+-- The target value for the goal (e.g., number of steps, amount of water, hours of sleep, etc.).
+- Once a goal is added, it appears in the Goals section of the Home page, showing the following information:
+-- The goal type (e.g., Calories, Sleep, Water, etc.).
+-- Progress percentage, calculated based on the tracked data relative to the goal.
+-- Start and End Dates for the goal.
+-- The total tracked data relevant to the goal (e.g., total calories consumed, hours slept, steps taken).
+- Goals are updated dynamically based on user tracking. For example:
+-- The Calorie Goal tracks the total calories consumed through meals logged within the date range of the goal.
+-- The Sleep Goal tracks the total number of hours slept between the start and end date.
+-- The Steps Goal accumulates the number of steps tracked between the defined dates.
+-- The Water Goal sums up the total number of bottles of water consumed within the goal's time frame.
+-- The Workout Goal counts the total number of workouts completed.
+- Users can also easily update or delete goals, with a visual indicator showing the current progress towards each goal.
+
+5. Special Features:
+-- Dynamic Cycle Predictions: The app provides predictions for users’ menstrual cycles based on their tracking data. If the user has completed at least two tracking entries (one with both a start and end date), the app calculates the average cycle length and uses it to predict the next cycle.
+-- Adaptive Graphs: Graphs and heatmaps are designed to be adaptable, with the month view aggregating data across four weeks and the week view showing daily values.
+-- Real-Time Updates: The progress for goals and trackings is updated in real-time, ensuring that users have the most current view of their progress.

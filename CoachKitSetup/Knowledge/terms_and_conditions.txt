@@ -1,0 +1,27 @@
+User Agreement
+User Responsibilities: Users must engage respectfully, avoid harassment, illegal activities, and other harmful behaviors.
+Account Security: Users are responsible for securing their credentials and must report unauthorized access immediately.
+2. Privacy Policy
+Data Collection: Explains what data the app collects (health metrics, personal info, usage stats) and user consent.
+Data Usage: How user data is used for improving services, personalizing experiences, and advertising (with consent).
+Third-Party Sharing: Outlines when and how data may be shared with third parties.
+3. Data Protection
+Data Security: Describes the security measures the app uses (encryption, firewalls, secure servers).
+User Rights: Users can access, correct, or delete their data.
+Data Breach Procedures: Details the steps taken in case of a data breach.
+4. Usage Guidelines
+Content Standards: Users must upload appropriate, respectful, and legal content.
+Prohibited Activities: Users must avoid hacking, spamming, or other fraudulent activities.
+5. Subscription and Payments
+Subscription Models: Information on subscription plans.
+Payment Terms: Users must pay on time, or their service may be suspended.
+Renewal and Cancellation: Subscriptions renew automatically unless canceled.
+6. Cancellation and Refunds
+Refund Policy: Refunds are available under specific conditions (e.g., non-conformity of service, unintentional renewal).
+Early Termination Fees: Some subscriptions may incur fees for early termination.
+7. Health and Safety
+Health Disclaimer: The app is not a substitute for professional medical advice.
+Safety Tips: Safety guidelines for physical activities to avoid injuries.
+8. Intellectual Property
+Copyrights and Trademarks: All content (unless uploaded by users) is owned by the app and is protected.
+Content Licensing: User-uploaded content can be used by the company under a non-exclusive, royalty-free license.

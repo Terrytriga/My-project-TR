@@ -1,0 +1,32 @@
+ProFit App - Program Section Overview:
+The Program section of the ProFit app is where users can manage their daily workouts and meal plans. The interface is designed to provide a structured view of the user's fitness and nutritional regimen for the day, with options to easily add, view, and track their activities.
+
+Main Sections of the Program:
+Workouts:
+
+The Workouts tab shows the planned workouts for the selected date.
+Users can select the date using the calendar at the top of the screen.
+Each workout displays the title, description, duration, and exercises included in that session. Users can view the detailed breakdown of each workout by clicking on it.
+Workouts are accompanied by:
+Exercise List: Displays exercises along with sets, reps, and weight recommendations.
+Required Equipment: Shows the necessary equipment for the workout.
+Instructions: Step-by-step guidance on how to perform each exercise correctly.
+Users can add more workouts to their daily plan by clicking the + button at the bottom right corner, which opens the full list of available workouts. Users can then select any workout to add to their plan.
+Adding a workout to the daily plan integrates it into the user's tracking and progress.
+Meals:
+
+The Meals tab offers a similar interface for managing meal plans. Users can view their meal plan for the selected date and can also choose to view different days using the calendar at the top.
+Meals are divided into Breakfast, Lunch, Dinner, and Snacks.
+Users can add new meals for each category by clicking the + button next to the respective meal time (Breakfast, Lunch, Dinner, or Snack).
+A detailed view for each meal includes:
+Ingredients: A list of ingredients needed for the meal.
+Nutritional Information: Displays detailed nutrition facts like calories, carbs, protein, etc.
+Instructions: Provides step-by-step instructions on how to prepare the meal.
+Users can browse through the entire list of available meals and add them to the relevant category for the selected day.
+Workout and Meal Details:
+Workout Detail: Each workout includes a list of exercises (e.g., squats, leg press), with specific details on sets, reps, and weight. Clicking on an exercise provides more in-depth instructions and visuals for proper form.
+Meal Detail: Similarly, for each meal, users can see a complete nutritional breakdown, a list of ingredients, and preparation steps. Each meal card also displays a picture of the meal.
+Special Features:
+Program Customization: Users have the ability to fully customize their daily workout and meal plan based on their preferences and fitness goals.
+Daily Tracking: Any workout or meal added to the program is automatically integrated into the user's tracking system, which can be viewed in the tracking section of the app.
+Progress Monitoring: The program seamlessly links with the tracking and goal-setting features of the app, allowing users to monitor their progress over time.

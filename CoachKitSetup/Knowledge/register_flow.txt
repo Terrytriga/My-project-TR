@@ -1,0 +1,25 @@
+ProFit Registration Flow: Getting Started with Your Fitness Journey
+
+The registration process in ProFit ensures that users can quickly and easily set up their profiles while providing additional verification steps for specific user roles.
+
+1. Filling Out the Registration Form
+When registering for ProFit, users need to fill out a detailed form that includes the following fields:
+
+Role Selection: Users can select from various roles, including Athlete, Physio, Psychologist, or Dietitian. This choice determines the user’s experience and access within the app.
+Gender: Options for gender include Male, Female, and Other.
+Personal Information: Users are required to enter their first name, last name, email, username, and date of birth.
+Password Creation: Users must set up a password and confirm it for account security.
+2. Role Validation
+If the user selects Athlete, the registration process proceeds normally, and the user gains immediate access to the app's fitness features.
+
+For users who select other roles, such as Physio, Psychologist, or Dietitian, the following additional step is required:
+
+Admin Approval: These users will need to undergo a verification process where an admin approves their role. Until approved, the specific functionality tied to that role remains restricted.
+3. Terms & Conditions (T&C)
+Before completing the registration, users must agree to ProFit’s Terms and Conditions. These can be viewed by clicking the blue highlighted text "Terms and Conditions" during registration. Users cannot proceed with registration unless they accept the T&C.
+
+4. Account Creation
+Once the required information is filled in, and if applicable, after receiving admin approval, the user can finalize the registration by agreeing to the Terms and Conditions and clicking the Create Account button.
+
+5. Post-Registration: Assessment Flow
+After completing registration and verification, the user is taken directly into the Assessment Flow, where they can assess their fitness levels, set initial goals, and begin their journey on the app.

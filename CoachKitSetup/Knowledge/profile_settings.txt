@@ -1,0 +1,18 @@
+ProFit App - Profile Settings Overview:
+In the Profile Settings section, users can manage their personal profile information, including updating their username, biography, and profile picture. Here's a breakdown of the functionality:
+
+Main Features:
+User Information Display:
+
+Users can see their current username, biography, and profile statistics such as the number of followers, followings, threads, and posts they have.
+Editing Profile:
+
+To make changes, the user clicks the Edit button. Once clicked, the input fields for username and biography are enabled.
+Profile Picture Update:
+
+After entering edit mode, users can also update their profile picture by tapping on their portrait. This triggers an image picker, where they can select a new photo from their device's gallery.
+The selected image can be cropped to fit the profile picture dimensions before saving.
+Saving Changes:
+
+Once the desired changes are made, including updating the profile picture, the user presses the Save button to update their profile.
+This feature allows users to customize their presence on the platform by providing a personalized profile.

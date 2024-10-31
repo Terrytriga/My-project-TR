@@ -1,0 +1,20 @@
+ProFit App - Account Settings Overview
+The Account Settings screen allows users to manage various settings related to the app's functionality, privacy, security, and notifications. It is a centralized place where users can configure their preferences to personalize their experience within the app.
+
+Key Sections:
+General Settings:
+
+Dark Mode: This setting allows users to toggle between light and dark mode throughout the entire app. Users can enable dark mode by checking the "Dark Mode" box, which immediately changes the app's theme. The dark mode is also accessible from the app header by clicking on the moon icon (which changes to a sun when dark mode is enabled).
+Privacy Settings:
+
+Last Seen: This option allows users to manage whether their "Last Seen" status is visible to other users. When enabled, others can see when the user was last active.
+Public Profile: Users can control the visibility of their profile. When enabled, their profile is publicly visible to other users, including their bio, followers, and posts.
+Security Settings:
+
+Two-Factor Authentication: Users can enhance the security of their account by enabling two-factor authentication (2FA). This adds an extra layer of protection during login.
+Login Alerts: This setting, when enabled, sends notifications to users if there is a login attempt on their account, keeping them informed of any suspicious activity.
+Notification Settings:
+
+Push Notifications: Users can toggle push notifications to receive updates directly to their device. These notifications may include reminders, tracking updates, or community activity alerts.
+Dark Mode in Detail:
+The dark mode feature can be easily toggled on or off from the header of the app. When dark mode is active, the header shows a sun icon instead of the moon, and all screens in the app adopt a darker color scheme to reduce eye strain, particularly in low-light environments.

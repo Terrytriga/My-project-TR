@@ -1,0 +1,46 @@
+ProFit: Your Personalized Health & Fitness Journey
+
+ProFit is a comprehensive fitness mobile application designed to help users achieve their health goals while tracking key aspects of their wellness. The app allows users to set and track personalized goals, offering features that make it easy to monitor progress and stay motivated.
+
+Core Features:
+1. Home Page: Goals & Tracking On the home page, users can set and track goals for various aspects of their health:
+
+Water: Stay hydrated by setting daily water intake goals.
+Steps: Track your daily step count and work towards an active lifestyle.
+Sleep: Ensure you get enough rest by monitoring your sleep patterns.
+Workouts: Set and complete workout goals based on your fitness level.
+Meals: Manage your nutrition by setting meal-related goals.
+ProFit also offers tracking for:
+
+Sleep
+Water
+Steps
+Workouts
+Meals
+Menstruation cycles (for women)
+2. Community ProFit fosters a supportive community with the following features:
+
+Threads: Users can create and post in threads based on different tags. Threads and individual posts can also be liked by users.
+Resources: Access expert-created guides and videos from psychologists, physicians, and dietitians.
+Follow: Follow other users to stay updated on their progress and share motivation.
+3. Program Section The Program section is a cornerstone of ProFit, offering:
+
+Workouts: Customized workout programs and challenges designed to help users reach their fitness goals.
+Meal Plans: Nutrition plans tailored to individual health needs and preferences.
+4. Bookings Users can book sessions with psychologists and physicians, ensuring they get the professional support they need for mental and physical wellness.
+
+5. Wellness Hub ProFit also includes a Wellness Hub featuring resources for mental wellness, such as Meditation to help users relax and reduce stress.
+
+6. Help Section ProFit includes a Help section that offers:
+
+FAQ: Answers to common questions about using the app.
+Contact Us: For any direct inquiries or support needs.
+Terms & Conditions: An overview of the app’s policies and user guidelines.
+7. Settings The settings section allows users to manage various aspects of their account:
+
+Profile Settings: Personalize your profile.
+General Settings: Options like enabling Dark Mode for a more comfortable viewing experience.
+Privacy Settings: Control your app visibility, such as Last Seen and Public Profile.
+Security Settings: Enhance your account security with features like Two-Factor Authentication and Login Alerts.
+Notification Settings: Manage your preferences for receiving Push Notifications.
+ProFit is designed for anyone looking to improve their health, stay consistent with their wellness routines, and join a supportive fitness community. Whether you’re focused on hydration, steps, sleep, or nutrition, ProFit helps you stay on track with its user-friendly goal-setting and tracking system.

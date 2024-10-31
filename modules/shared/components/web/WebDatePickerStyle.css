@@ -1,0 +1,7 @@
+.react-datepicker-popper {
+  z-index: 9999 !important; /* Make sure it appears above other elements */
+}
+
+.react-datepicker__input-container input {
+  width: 100%; /* Ensure the input takes full width */
+}

@@ -1,0 +1,21 @@
+ProFit App - Messaging Overview:
+The messaging functionality within the ProFit app is designed to facilitate seamless communication between users. It is accessible from the header, where the user can click on the paper plane icon to navigate to the chat section.
+
+Here is a breakdown of how the messaging system operates:
+
+1. Accessing the Messaging System:
+The paper plane icon is consistently available at the top right of the screen, ensuring users can access their messages from anywhere within the app.
+Upon clicking the icon, the user is navigated to the Chats screen, where all their ongoing conversations are displayed.
+2. No Existing Chats:
+If a user has no active conversations, the screen displays a "No Chats!" message.
+A blue + button at the bottom right allows users to initiate a new conversation by searching for a contact.
+3. Starting a New Chat:
+To start a new conversation, users tap the + button on the Chats screen, which leads to the Search Contact screen.
+Users can then select the desired contact from the available list.
+4. Chat Interface:
+Once a contact is selected, the chat window opens where users can begin messaging.
+The chat interface is simple, with a text input field at the bottom for users to type their message.
+Messages sent are displayed in bubbles with timestamps for reference.
+5. Ongoing Chats:
+Ongoing conversations are displayed on the main Chats screen with the contact’s name and a preview of the latest message, along with a timestamp for when the last message was sent.
+This messaging feature allows for easy communication between users, with an intuitive interface for starting and maintaining conversations.

@@ -1,0 +1,12 @@
+Login Form
+Upon launching the app, users will be greeted with the login form. To log in, users must enter their email and password. There are additional options available for convenience and account recovery:
+
+Remember Me: Selecting this option allows the user to stay logged in. The app will automatically log the user back in if a valid access token is found in storage, so there’s no need to re-enter credentials every time.
+
+Forgot Password: This option helps users recover access to their accounts if they’ve forgotten their password. The process works as follows:
+
+Enter Email: The user enters their registered email address in the provided field.
+Receive OTP: After submitting the email, the user will receive a One-Time Password (OTP) via email.
+OTP Validation: The user will be directed to an OTP screen where they can enter the code received in their email.
+Password Reset: If the OTP is valid, the user is taken to a password reset form where they can create a new password.
+Automatic Login: After successfully resetting the password, the user is logged back into the app.

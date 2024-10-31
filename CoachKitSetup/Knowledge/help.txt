@@ -1,0 +1,48 @@
+ProFit App - Help Section Overview:
+The Help section in ProFit provides comprehensive support to guide users through various aspects of the app. It is divided into three main tabs: FAQ, Contact Us, and Terms & Conditions (T&Cs). Each tab is designed to give users clear and easily accessible information related to their fitness, health, app usage, and support.
+
+1. FAQ (Frequently Asked Questions):
+This section is divided into multiple categories to help users quickly find the information they need. It answers common questions users might have about different aspects of their health journey. The categories include:
+
+Nutrition: Focuses on dietary advice and macronutrient information to help users balance their diet based on fitness goals.
+
+Example: “What should I eat before and after workouts?” provides dietary tips for optimal performance and recovery.
+Exercise: Covers topics on workout routines, cardio exercises, and strength training, ensuring users can safely progress in their fitness journey.
+
+Example: “How often should I change my workout routine?” explains how to modify routines to prevent plateaus and encourage growth.
+Mental Health: Emphasizes the importance of physical activity on mental health and introduces mindfulness and meditation as stress-relieving techniques.
+
+Example: “Can exercise replace medication for mental health issues?” discusses the complementary role of exercise with therapy or medication.
+Booking: Guides users on how to book sessions with health professionals, such as psychologists or physicians, and how to manage appointments.
+
+Example: “How do I cancel or reschedule a booked session?” outlines the process for managing appointments via the app.
+Scheduling: Provides strategies to help users manage their time and integrate health and fitness routines into their everyday lives.
+
+Example: “How can I integrate meal plans into my schedule?” explains how to align meal plans with daily activities for optimal health.
+Community: Focuses on engaging with the ProFit community, creating threads, and following other users to foster interactions.
+
+Example: “How do I start a new thread in the community?” gives step-by-step instructions for initiating discussions within the app.
+Wellness Hub: Provides an overview of available wellness resources, including courses, meditation, and yoga practices.
+
+Example: “What courses are available in the Wellness Hub?” gives users insights into the mental and emotional resources offered in the hub.
+Feedback: Guides users on how to provide feedback, report issues, and understand how their feedback impacts the app’s improvements.
+
+Example: “How do I report a problem with the app?” outlines the steps for submitting feedback through the app’s settings.
+2. Contact Us:
+The Contact Us section provides users with the necessary contact details for support, including:
+
+Phone: +27 82 999 8888
+Email: info@profit.co.za
+Address: 5 Kingsway Ave, Rossmore, Johannesburg
+Additionally, this section mentions any limitations in communication features (such as the current absence of an SMTP server for direct emails) and advises users to contact the team via phone or address for assistance.
+
+3. Terms & Conditions (T&Cs):
+The T&Cs tab outlines the essential rules and agreements for using the ProFit app. It covers various aspects such as:
+
+User Responsibilities: Expectations for respectful and legal engagement with the platform, discouraging harassment or illegal activities.
+Account Security: Highlights the user’s responsibility for maintaining the security of their credentials and how to report unauthorized access.
+Privacy Policy & Data Protection: Informs users of their rights regarding personal data and how their information is safeguarded.
+Subscription and Payments: Discusses payment processes and policies, including cancellation and refunds.
+Health & Safety: Guidelines on using the app safely, especially during physical activities.
+Intellectual Property: Defines the ownership and usage rights for content provided by ProFit.
+This structured Help section ensures users have access to detailed support resources across multiple areas, from understanding nutrition to interacting with the community and managing bookings. By providing both general FAQs and specific contact details, ProFit ensures that users can navigate the app and manage their health journey effectively.

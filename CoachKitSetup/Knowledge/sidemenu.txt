@@ -1,0 +1,29 @@
+ProFit App - Side Menu (Drawer) Overview
+The Side Menu (Drawer) is the central navigation hub of the ProFit app, allowing users to easily access all features and sections within the app. The menu is accessible by tapping the menu icon in the top-left corner of the screen. Once opened, users can quickly navigate to different sections of the app or adjust their profile and account settings.
+
+Key Features:
+Profile Card: At the top of the menu, users can see their profile card, which displays their name, email, and profile picture (if set). Clicking on this card will take the user directly to the Profile Settings screen, where they can edit their personal information and biography. Alternatively, the Profile Settings can be accessed via the "Settings" dropdown in the menu.
+
+Home: Navigate back to the Home screen at any time from here.
+
+Bookings: Access and manage your upcoming and past bookings with health professionals such as psychologists or dietitians.
+
+Community: Engage with other users in the app through threads, resources, and follow features.
+
+Schedule: View and manage your workout and meal schedules, ensuring you stay on track with your goals.
+
+CoachKit: Explore tools and features designed specifically for coaches to help manage client workouts, meal plans, and progress.
+
+Wellness Hub: Access meditation guides, yoga routines, and courses available to improve both physical and mental well-being.
+
+Program: Access the workout and meal program tailored to your fitness goals. You can view, add, and edit your daily workouts and meal plans.
+
+Help: Quickly access the Help Section with FAQs, contact details, and terms & conditions.
+
+Settings: The settings section has two options:
+
+Profile: Allows you to view and edit your personal details and biography.
+Account: Manage privacy, security, and notification settings.
+Logout: Sign out from the application.
+
+The Side Menu provides a streamlined and intuitive way to navigate the ProFit app's wide array of features, ensuring easy access to the tools needed to manage your fitness journey.
